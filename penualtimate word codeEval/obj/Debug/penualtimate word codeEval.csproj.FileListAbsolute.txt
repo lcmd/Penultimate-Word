@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\penualtimate word codeEval\penualtimate word codeEval\bin\Debug\penualtimate word codeEval.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\penualtimate word codeEval\penualtimate word codeEval\bin\Debug\penualtimate word codeEval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\penualtimate word codeEval\penualtimate word codeEval\bin\Debug\penualtimate word codeEval.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\penualtimate word codeEval\penualtimate word codeEval\obj\Debug\penualtimate word codeEval.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\penualtimate word codeEval\penualtimate word codeEval\obj\Debug\penualtimate word codeEval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\penualtimate word codeEval\penualtimate word codeEval\obj\Debug\penualtimate word codeEval.pdb
